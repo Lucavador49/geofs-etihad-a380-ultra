@@ -1,21 +1,30 @@
 <aircraft>
-    <title>Etihad A380 Mach 50</title>
-    <description>A380 boosté Etihad avec autopilote</description>
-    <model>777</model>
-    <mass>250000</mass>
-    <engines>
-        <engine>
-            <position x="40" y="-4" z="20"/>
-        </engine>
-        <engine>
-            <position x="40" y="-4" z="-20"/>
-        </engine>
-    </engines>
-    <autopilot>
-        <altitudeHold>true</altitudeHold>
-        <speedHold>true</speedHold>
-        <headingHold>true</headingHold>
-    </autopilot>
-    <liveries>
-        <livery>
-            <texture>https://upload.wikimedia.org/wikipedia/commons/6/6e/Etihad_Airways_A380_A6-APA_LHR_2015_01.jpg</texture>
+  <title>Etihad A380 Mach 50</title>
+  <description>A380 boosté Etihad avec autopilote</description>
+  <model>models/A380/A380.xml</model>
+  <mass>575000</mass>
+  <engines>
+    <engine>
+      <position x="40" y="-4" z="20"/>
+    </engine>
+    <engine>
+      <position x="40" y="-4" z="-20"/>
+    </engine>
+    <engine>
+      <position x="-40" y="-4" z="20"/>
+    </engine>
+    <engine>
+      <position x="-40" y="-4" z="-20"/>
+    </engine>
+  </engines>
+  <autopilot>
+    <altitudeHold>true</altitudeHold>
+    <speedHold>true</speedHold>
+    <headingHold>true</headingHold>
+  </autopilot>
+  <liveries>
+    <livery>
+      <texture>https://upload.wikimedia.org/wikipedia/commons/6/6e/Etihad_Airways_A380_A6-APA_LHR_2015_01.jpg</texture>
+    </livery>
+  </liveries>
+</aircraft>
