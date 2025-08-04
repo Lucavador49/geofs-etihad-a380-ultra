@@ -1,0 +1,25 @@
+<aircraft>
+    <title>Test A380 Minimal</title>
+    <description>Test basique pour voir s'il apparaît dans GeoFS</description>
+    <model>models/A380/A380.xml</model>
+    <mass>500000</mass>
+    <engines>
+        <engine>
+            <position x="10" y="0" z="10"/>
+        </engine>
+    </engines>
+</aircraft>
+
+
+
+
+
+
+
+
+
+
+
+
+
+add basic xml
