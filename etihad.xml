@@ -1,7 +1,7 @@
 <aircraft>
     <title>Etihad A380 Mach 50</title>
     <description>A380 boosté Etihad avec autopilote</description>
-    <model>Cessna172</model>
+    <model>A380</model>
     <mass>575000</mass>
     <engines>
         <engine>
