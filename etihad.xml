@@ -2,7 +2,7 @@
     <title>Etihad A380 Mach 50</title>
     <description>A380 boosté Etihad avec autopilote</description>
     <model>777</model>
-    <mass>575000</mass>
+    <mass>250000</mass>
     <engines>
         <engine>
             <position x="40" y="-4" z="20"/>
